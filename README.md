@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ankitnarine1957@gmail.com**
 
-- ⚡ Fun fact **I am the most friendly guy you ever met!**
+- ⚡ Fun fact **I am the most friendly guy you will ever met!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
