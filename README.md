@@ -1,4 +1,4 @@
-![Ankit Narayan Prasad](https://github.com/ankit1957/ankit1957/blob/main/github%20background.png)
+![Ankit Narayan Prasad](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
 
 <h1 align="center">Hi 👋, I'm Ankit Narayan Prasad</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
