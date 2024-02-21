@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Narayan Prasad</h1>
-<img align="center" src = "https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="center" alt = "coding" width = "100%" src = "github background.png">
 <h3 align="center">An aspiring full-stack web developer proficient in Java, passionate about problem-solving and continuously seeking opportunities to expand my skill set.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit1957&label=Profile%20views&color=0e75b6&style=flat" alt="ankit1957" /> </p>
 
